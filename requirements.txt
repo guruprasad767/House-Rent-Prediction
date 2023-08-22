@@ -1,0 +1,6 @@
+Flask
+python-utils
+simplejson
+numpy
+scikit-learn
+pickle5
